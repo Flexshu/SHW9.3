@@ -1,0 +1,15 @@
+/Users/Yehor/Documents/Єгора/C#/HW9.3/bin/Debug/net9.0/HW9.3
+/Users/Yehor/Documents/Єгора/C#/HW9.3/bin/Debug/net9.0/HW9.3.deps.json
+/Users/Yehor/Documents/Єгора/C#/HW9.3/bin/Debug/net9.0/HW9.3.runtimeconfig.json
+/Users/Yehor/Documents/Єгора/C#/HW9.3/bin/Debug/net9.0/HW9.3.dll
+/Users/Yehor/Documents/Єгора/C#/HW9.3/bin/Debug/net9.0/HW9.3.pdb
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.AssemblyInfoInputs.cache
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.AssemblyInfo.cs
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.csproj.CoreCompileInputs.cache
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.sourcelink.json
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.dll
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/refint/HW9.3.dll
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.pdb
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/HW9.3.genruntimeconfig.cache
+/Users/Yehor/Documents/Єгора/C#/HW9.3/obj/Debug/net9.0/ref/HW9.3.dll
